@@ -1,0 +1,23 @@
+.icon {
+    color: red;
+    font-size: 30px;
+}
+
+body {
+    background-color: #acff2f1a;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text-position {
+    margin-right: 10px;
+}
+
+.text-click {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 20px;
+}
